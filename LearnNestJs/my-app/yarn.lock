@@ -4087,6 +4087,11 @@
   dependencies:
     "queue-microtask" "^1.2.2"
 
+"run-script-webpack-plugin@^0.2.0":
+  "integrity" "sha512-SVNNq4jxzjfnaW+HkdTlyH1CWwCuSb/weYfic0D7Y/KnhY27YRYkzgybdzTDEPJlpQ73FDCRDbyBFwNsJMmwWQ=="
+  "resolved" "https://registry.npmjs.org/run-script-webpack-plugin/-/run-script-webpack-plugin-0.2.0.tgz"
+  "version" "0.2.0"
+
 "rxjs@^7.1.0", "rxjs@^7.5.5", "rxjs@^7.8.1", "rxjs@7.8.1":
   "integrity" "sha512-AA3TVj+0A2iuIoQkWEK/tqFjBq2j+6PO6Y0zJcvzLAFhEFIO3HL0vls9hWLncZbAAbK0mar7oZ4V079I/qPMxg=="
   "resolved" "https://registry.npmjs.org/rxjs/-/rxjs-7.8.1.tgz"
@@ -4747,7 +4752,7 @@
   "resolved" "https://registry.npmjs.org/webidl-conversions/-/webidl-conversions-3.0.1.tgz"
   "version" "3.0.1"
 
-"webpack-node-externals@3.0.0":
+"webpack-node-externals@^3.0.0", "webpack-node-externals@3.0.0":
   "integrity" "sha512-LnL6Z3GGDPht/AigwRh2dvL9PQPFQ8skEpVrWZXLWBYmqcaojHNN0onvHzie6rq7EWKrrBfPYqNEzTJgiwEQDQ=="
   "resolved" "https://registry.npmjs.org/webpack-node-externals/-/webpack-node-externals-3.0.0.tgz"
   "version" "3.0.0"
@@ -4757,7 +4762,7 @@
   "resolved" "https://registry.npmjs.org/webpack-sources/-/webpack-sources-3.2.3.tgz"
   "version" "3.2.3"
 
-"webpack@^5.0.0", "webpack@^5.1.0", "webpack@^5.11.0", "webpack@5.97.1":
+"webpack@^5.0.0", "webpack@^5.1.0", "webpack@^5.11.0", "webpack@^5.97.1", "webpack@5.97.1":
   "integrity" "sha512-EksG6gFY3L1eFMROS/7Wzgrii5mBAFe4rIr3r2BTfo7bcc+DWwFZ4OJ/miOuHJO/A85HwyI4eQ0F6IKXesO7Fg=="
   "resolved" "https://registry.npmjs.org/webpack/-/webpack-5.97.1.tgz"
   "version" "5.97.1"
